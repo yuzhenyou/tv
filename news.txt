@@ -17,11 +17,7 @@ CCTV-14 少儿,http://119.114.35.209:9901/tsfile/live/1163_1.m3u8?key=txiptv&pla
 CCTV-15 音乐,http://119.114.35.209:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16 奥林匹克,http://119.114.35.209:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-17 农业农村,http://119.114.35.209:9901/tsfile/live/1164_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV 世界地理,http://
-CCTV 风云剧场,http://
-CCTV 怀旧剧场,http://
 CCTV 风云足球,http://119.114.35.209:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV 风云音乐,http://
 CCTV 第一剧场,http://119.114.35.209:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC 动作电影,http://119.114.35.209:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
 CHC 家庭影院,http://119.114.35.209:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
