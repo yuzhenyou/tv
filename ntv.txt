@@ -263,35 +263,6 @@ CETV4,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010105/1.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
-🏳️‍🌈国际,#genre#
-CGTN,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CGTN,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010137/1.m3u8
-CGTN,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010095/1.m3u8virtualDomain=yinhe.live_hls.zte.com
-CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225745/index.m3u8
-CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
-CGTN,http://live.cgtn.com/1000/prog_index.m3u8
-CGTN,http://live.cgtn.com/500/prog_index.m3u8
-
-CGTN Documentary,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CGTN Documentary,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
-CGTN Documentary,https://livedoc.cgtn.com/500d/prog_index.m3u8
-
-CGTN Français,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CGTN Français,https://livefr.cgtn.com/1000f/prog_index.m3u8
-
-CGTN Español,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CGTN Español,https://livees.cgtn.com/1000e/prog_index.m3u8
-
-CGTN Русский,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002883/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CGTN Русский,https://liveru.cgtn.com/1000r/prog_index.m3u8
-CGTN Русский,http://liveru.cgtn.com/1000r/prog_index.m3u8
-
-CGTN العربية,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CGTN العربية,https://livear.cgtn.com/1000a/prog_index.m3u8
-
-NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-AlJazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
 📺地方,#genre#
 黑龙江卫视,http://[2409:8087:1a01:df::4001]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8
 黑龙江卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
@@ -460,9 +431,6 @@ AlJazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江之江记录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 
 
 江西卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
@@ -732,6 +700,34 @@ AlJazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 江苏8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 江苏8K,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
 苏州4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
+
+🏳️‍🌈国际,#genre#
+CGTN,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CGTN,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010137/1.m3u8
+CGTN,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010095/1.m3u8virtualDomain=yinhe.live_hls.zte.com
+CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221225745/index.m3u8
+CGTN,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
+CGTN,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN,http://live.cgtn.com/500/prog_index.m3u8
+
+CGTN Documentary,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CGTN Documentary,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
+CGTN Documentary,https://livedoc.cgtn.com/500d/prog_index.m3u8
+
+CGTN Français,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CGTN Français,https://livefr.cgtn.com/1000f/prog_index.m3u8
+
+CGTN Español,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CGTN Español,https://livees.cgtn.com/1000e/prog_index.m3u8
+
+CGTN Русский,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002883/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CGTN Русский,https://liveru.cgtn.com/1000r/prog_index.m3u8
+CGTN Русский,http://liveru.cgtn.com/1000r/prog_index.m3u8
+
+CGTN العربية,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CGTN العربية,https://livear.cgtn.com/1000a/prog_index.m3u8
+
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 
 💖港澳台,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
