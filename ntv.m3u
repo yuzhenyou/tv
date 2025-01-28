@@ -29,4 +29,5 @@ http://183.255.10.91:6610/200000001898/460000089800010059/1.m3u8?IASHttpSessionI
 http://183.255.10.90:6610/200000001898/460000089800010059/1.m3u8?IASHttpSessionId
 #EXTINF:-1 tvg-logo="https://wtv.tools.yigechengzi.com/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视",湖南卫视
 http://116.77.32.59:8277/streams/d/hunws/playlist.m3u8
-#EXTINF:-1 tvg-logo="" tvg-id="25-01-28" tvg-name="25-01-28" group-title="更新日期",25-01-28
+#EXTINF:-1 tvg-id="25-01-28" tvg-name="25-01-28" group-title="更新日期",25-01-28
+http://116.77.32.59:8277/streams/d/cctv5/playlist.m3u8
